@@ -1,12 +1,7 @@
-# React.js landing page template v2
+# NativeX
 
-## <a href="https://react-landing-page-template-2021.vercel.app/"> LIVE DEMO</a>
+## <a href="https://native-x-git-master-hamjeth68.vercel.app/"> LIVE DEMO</a>
 
-<img src="public/assets/gifs/demo.gif" width="100%" height="auto" />
-
-### Description
-
-This is a React.js/Next.js based landing page plug-n-play template, ideal for startups/companies/service providers wanting to showcase their vision in a single page sleek and modern landing page.
 
 ### Features
 
