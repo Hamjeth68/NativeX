@@ -2,27 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
-
 :root {
-  --color-primary: #ec4755;
-  --color-secondary: #a12c34;
-  --color-tertiaty: #99a0a3;
+  --color-primary: #0D1282; /* Updated primary color */
+  --color-secondary: #a12c34; /* No change, assuming you want to keep it */
+  --color-tertiary: #99a0a3; /* Corrected the spelling from 'tertiaty' to 'tertiary' */
 }
 
 a { 
-  @apply text-red-700;
+  @apply text-primary; /* Use the Tailwind class for the primary color */
 }
 
 a:hover {
-  @apply border-b-2 border-red-700;
+  @apply border-b-2 border-primary; /* Use the primary color for the hover border */
 }
 
-
+/* If you want to apply the background color globally or to specific elements,
+   you might add something like this: */
+body {
+  @apply bg-background; /* Applies the background color */
+}
 
 .content p {
-  @apply my-6;
+  @apply my-6; /* No change, assuming you're happy with the margin */
 }
 
 .content ul {
-  @apply my-6;
+  @apply my-6; /* No change, same as above */
 }
