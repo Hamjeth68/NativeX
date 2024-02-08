@@ -27,9 +27,9 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "NativeX",
+    "subtitle": "Code the Future, Today.",
+    "description": "",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
@@ -37,86 +37,90 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:hamjeth68@gmail.com?subject=Reach NativeX!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Our Services",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Web Application Development",
+        "description": "At NativeX, we specialize in creating dynamic, responsive web applications tailored to your business needs. Leveraging the latest technologies and frameworks, we ensure your web presence is modern, secure, and scalable. From e-commerce platforms to interactive web portals, our team designs solutions that enhance user experience and drive engagement. Let us help you bring your digital vision to life with a web application that stands out in the digital landscape.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Mobile App Development",
+        "description": "NativeX excels in developing high-quality mobile applications that offer seamless user experiences across all devices. Our expertise spans across iOS, Android, and cross-platform solutions, ensuring your app performs optimally on any platform. From concept to launch, we work closely with you to create mobile apps that not only meet your requirements but also exceed your users' expectations. Whether it's a consumer app or a transformative enterprise-class solution, NativeX is your partner in mobile innovation.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
+  
   "features": {
-    "title": "Latest & greatest ",
+    "title": "Latest & greatest",
     "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "description": "NativeX leverages cutting-edge technologies to deliver unparalleled digital experiences. Our commitment to using modern development tools ensures that our projects are not only robust and scalable but also ahead of the curve. By embracing these technologies, we guarantee that our solutions are efficient, secure, and tailored to meet the unique needs of our clients.",
     "items": [
       {
         "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "description": "React.js is a premier front-end library developed by Facebook for building interactive, stateful UI components in web applications. Its virtual DOM implementation and reactive data flow enable NativeX to craft highly responsive user experiences with efficient updates and rendering processes.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "Tailwind CSS",
+        "description": "Tailwind CSS is a utility-first CSS framework that empowers our developers to rapidly style applications without stepping away from your markup. It offers the flexibility to design custom interfaces with minimal effort, fostering creativity and consistency across designs. With Tailwind, NativeX delivers aesthetically pleasing, responsive layouts faster than ever.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
         "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "description": "Next.js provides a framework for building server-side rendered and statically generated React applications with ease. It enhances SEO, optimizes performance, and simplifies data fetching. At NativeX, we use Next.js to develop web applications that are not only fast and scalable but also have out-of-the-box features like file-based routing and API routes.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "name": "TypeScript",
+        "description": "TypeScript extends JavaScript by adding types to the language. This Microsoft-developed superset ensures safer and more predictable code, facilitating maintenance and refactoring. TypeScript's robust typing system, including interfaces and enums, allows NativeX to develop more complex applications with fewer bugs.",
         "icon": "/assets/images/ts.png"
       }
     ]
   },
+
+  
   "pricing": {
-    "title": "Pricing",
+    "title": "Our Solutions",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "Starter Pack",
+        "price": "Custom Quote",
+        "priceDetails": "Ideal for startups and small projects",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "Custom web or mobile app development",
+          "Basic UI/UX Design",
+          "Up to 2 revisions",
+          "Basic deployment & support"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
-
+        "name": "Business Pro",
+        "price": "Custom Quote",
+        "priceDetails": "Perfect for growing businesses",
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "Advanced web or mobile app development",
+          "Enhanced UI/UX Design",
+          "Unlimited revisions",
+          "Priority support & maintenance",
+          "Basic SEO and analytics setup"
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "name": "Enterprise Solution",
+        "price": "Custom Quote",
+        "priceDetails": "Tailored for large scale operations",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "Comprehensive web and mobile solutions",
+          "Premium UI/UX Design with user research",
+          "Dedicated project manager",
+          "24/7 support & ongoing maintenance",
+          "Advanced SEO, analytics, and performance optimization"
         ]
       }
     ]
@@ -124,30 +128,30 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Who We Are",
+        "href": "#who-we-are",
+        "content": "NativeX is a leading technology company specializing in web and mobile application development. Founded by a team of passionate innovators, we aim to transform digital ideas into reality. Our expertise lies in creating seamless, intuitive applications that drive user engagement and success for businesses across various industries."
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Our Mission",
+        "href": "#our-mission",
+        "content": "Our mission is to empower businesses with state-of-the-art digital solutions that propel them towards achieving their strategic goals. At NativeX, we believe in leveraging cutting-edge technologies and agile methodologies to deliver products that not only meet but exceed our clients' expectations."
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Our Approach",
+        "href": "#our-approach",
+        "content": "At NativeX, our approach is client-centric, focusing on understanding the unique challenges and objectives of each project. We collaborate closely with our clients to ensure our solutions are tailor-made to fit their specific needs, combining innovation, expertise, and meticulous attention to detail."
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Why Choose Us",
+        "href": "#why-choose-us",
+        "content": "Choosing NativeX means partnering with a company that is committed to excellence. Our experienced team of developers, designers, and strategists are dedicated to pushing the boundaries of digital innovation. With NativeX, you gain a partner who is as invested in your success as you are, providing transparent communication, unmatched expertise, and continuous support."
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://web.facebook.com/profile.php?id=61555169079468",
+      "twitter": "https://web.facebook.com/profile.php?id=61555169079468",
+      "linkedin": "https://web.facebook.com/profile.php?id=61555169079468"
     }
   }
 }
